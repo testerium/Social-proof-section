@@ -168,13 +168,7 @@ blockquote {
     1025px — 1200px: Desktops, large screens.
     1201px and more — Extra large screens, TV. 
 */
-@media screen and (min-width: 768px) and (max-width: 1440px) {
-    .container { 
-        padding: 50px;
-    }
-}    
-
-
+ 
 @media screen and (max-width: 480px) {
 
     .container {
